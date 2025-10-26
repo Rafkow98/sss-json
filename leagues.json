@@ -682,23 +682,5 @@
     "platform": "PC",
     "game": "F1 25",
     "accServerChampionshipId": null
-  },
-  {
-    "id": 82,
-    "name": "Porsche Winter Cup",
-    "type": 4,
-    "split": "A",
-    "platform": "PC",
-    "game": "ACC",
-    "accServerChampionshipId": "2c91d9c8-ca19-43f7-b351-cbdd928a34dc"
-  },
-  {
-    "id": 83,
-    "name": "Assetto Corsa Competizione - GT3 - Sezon 3",
-    "type": 4,
-    "split": "A",
-    "platform": "PC",
-    "game": "ACC",
-    "accServerChampionshipId": "d4ffc150-55e3-47b0-b3eb-9ce277e2d823"
   }
 ]
